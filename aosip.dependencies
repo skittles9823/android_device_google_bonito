@@ -1,0 +1,7 @@
+[
+  {
+   "repository":  "kernel_google_bluecross",
+   "target_path": "kernel/google/bonito",
+   "branch":      "ten"
+  }
+]
